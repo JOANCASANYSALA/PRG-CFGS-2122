@@ -13,9 +13,9 @@
 ---
 Información leida:David Martinez
 
-# Problemas, algoritmos y programas
+# Problemas, algoritmos y programas.
 
-## Problemas
+## Problemas.
 
 Podríamos decir que la **programación** es una forma de resolución de **problemas**.
 
